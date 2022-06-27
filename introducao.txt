@@ -1,0 +1,3 @@
+No módulo do Git e GitHub, aprendemos o que é o Git e o GitHub.
+Git é um versionador de arquivos muito útil para a vida dos desenvolvedores, através dele podemos fazer muitas coisas em nossos projetos.
+GitHub é um site onde milhares de desenvolvedores colocam seus projetos no ar para que outros desenvolvedores possam ver e também aperfeiçoar seus trabalhos. É super essencial que um bom desenvolvedor tenha um bom GitHub, e também que coopere trabalhando e melhorando outros projetos open source.
