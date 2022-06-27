@@ -1,0 +1,23 @@
+Abaixo, estará uma lista com os principais comandos do terminal e também do Git.
+
+Comandos do terminal:
+pwd: mostra o diretório atual.
+ls: mostra os elementos presente na pasta.
+cd: comando para acessar uma pasta.
+cd .. :comando para voltar uma pasta.
+touch: comando para criar um arquivo.
+
+Comandos do Git:
+git init: cria um repósitorio.
+git status: sabemos se o arquivo existente na pasta está sendo monitorado.
+git add: adicionamos os arquivos para ser monitorado.
+git commit -m: comando para realizar o commit dos arquivos.
+git log: gera uma lista com todos os commits realizado.
+git branch: sabemos quantos branch (ramificações) temos.
+git branch +nome: cria-se uma nova ramificação.
+git checkout +nome: alterna entre as ramificações disponíveis.
+git checkout -b +nome: cria uma ramificação e já acessa ela.
+git branch -D +nome: remove uma ramificação.
+git merge +nome da ramificação: move todo conteúdo de uma ramificação para a master.
+git push origin master: comando para enviar os arquivos para o GitHub.
+git pull origin master: comando para baixar as alterações feita no arquivo pelo GitHub.
