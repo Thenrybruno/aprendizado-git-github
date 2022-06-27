@@ -1,0 +1,1 @@
+Branchs são ramificações que podemos criar para não trabalhar diretamente na nossa master. Isso é muito útil quando trabalhamos em equipe em algum projeto, onde cada membro é responsável em desenvolver uma parte. Cada um trabalha em uma branch diferente e logo após todos terem concluido sua parte, realiza-se uma merge para a master.
