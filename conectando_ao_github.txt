@@ -1,0 +1,12 @@
+Como já dito, todo desenvolvedor deve ter uma conta no GitHub. Para conectar nosso repositório com o GitHub, devemos primeiramente acessar nossa conta, e criar um novo repositório. Feito isso, damos um nome ao nosso repositório, escolhemos se ele será publico ou privadoe confirmamos.
+Será criado um diretório https e ele sera muito importante, pois será com ele que linkaremos o nosso repositório do Git com o do GitHub.
+Copiamos então o comando :
+
+git remote add origin +https.
+
+Logo após, daremos o comando para subir os arquivos: 
+
+git push origin master
+
+O nome de usuario e senha será pedido para que o procedimento seja finalizado.
+Nota: hoje em dia, não é mais permitido usar a senha pessoal para subir os arquivos, um token deve ser gerado no próprio GitHub e usá-lo como senha.
