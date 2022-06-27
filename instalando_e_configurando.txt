@@ -1,0 +1,3 @@
+Conecemos o terminal, onde todos os commandos necessários para realizar nossas necessidades são aplicados.
+Para aqueles que trabalham com sistema operacional Windows, aprendemos a baixar e configurar o terminal do Ubuntu em nossa máquina, para que os comandos dados nas aulas possam ser iguais aos que daremos.
+Configuramos as informações de usuario e senha, e depois adicionamos nossos nomes e email para ficar sempre salvo na máquina.
